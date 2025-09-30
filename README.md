@@ -26,7 +26,7 @@ A personal portfolio website built with **HTML, CSS, and JavaScript** to showcas
 
 I am currently working on a **React version** of this portfolio with additional features, including:
 
-- Implement a **modern and visually improved design**
-- Add **more sections** to better showcase skills, experience, and projects
+- Implement a modern and visually improved design
+- Add more sections to better showcase skills, experience, and projects
 - Enhance interactivity with animations and reusable components
 - Improve state management for project filtering and dynamic content
